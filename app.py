@@ -66,13 +66,13 @@ if st.checkbox("Sobre"):
     st.text("GenderClass é um app de classificação de gênero com base no nome\nFaz uso da biblioteca scikit-learn e da linguagem Python")
     st.subheader('Redes Sociais')
         
-    medium = hyperlink.parse(u'https://medium.com/@joseestevan')
+    medium = hyperlink.parse(u'medium.com/@joseestevan')
     st.markdown(medium.to_text())
     
-    link = hyperlink.parse(u'https://www.linkedin.com/in/joseestevan/')
+    link = hyperlink.parse(u'linkedin.com/in/joseestevan/')
     st.markdown(link.to_text())  
 
-    git = hyperlink.parse(u'https://github.com/JoseEstevan')
+    git = hyperlink.parse(u'github.com/JoseEstevan')
     st.markdown(git.to_text())
 
 
