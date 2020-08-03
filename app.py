@@ -4,6 +4,7 @@ import time
 from PIL import Image
 from sklearn.feature_extraction.text import CountVectorizer
 import hyperlink
+import joblib
 
 gender_vectorizer = open("gender_vectorizer.pkl",'rb')
 gender_cv = joblib.load(gender_vectorizer)
