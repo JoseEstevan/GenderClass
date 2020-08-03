@@ -1,6 +1,5 @@
 import streamlit as st 
-import sklearn.externals 
-import joblib
+from sklearn.externals import joblib
 import time
 from PIL import Image
 from sklearn.feature_extraction.text import CountVectorizer
