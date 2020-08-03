@@ -62,7 +62,7 @@ if __name__ == '__main__':
 
 if st.checkbox("Sobre"):
     
-    st.text("GenderClass é um app de classificação de gênero\nFaz uso da biblioteca scikit-learn e da linguagem Python")
+    st.text("GenderClass é um app de classificação de gênero com base no nome\nFaz uso da biblioteca scikit-learn e da linguagem Python")
     st.subheader('Redes Sociais')
         
     medium = hyperlink.parse(u'https://medium.com/@joseestevan')
