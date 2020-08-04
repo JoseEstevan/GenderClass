@@ -77,6 +77,6 @@ if st.checkbox("Sobre"):
 
 
 st.markdown('')
-st.markdown('Obs: Se a classificação estiver errada tente com o sobrenome\no modelo está sendo revisado por conta de alguns erros')
+st.markdown('Obs: Se a classificação estiver errada tente com o sobrenome,\no modelo está sendo revisado por conta de alguns erros')
 
 st.subheader('By: José Estevan')
