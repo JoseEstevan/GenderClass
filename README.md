@@ -1,15 +1,15 @@
 ## GenderClass App
 
 ### Home
-![](imagens/Home.png)
+![](Imagens/Home.png)
 
 ### Predição
-![](imagens/Mulher.png)
+![](Imagens/Mulher.png)
 
 ### Predição
-![](imagens/Homem.png)
+![](Imagens/Homem.png)
 
-![Link](https://genderclass-app.herokuapp.com/)
+[Abrir o App](https://genderclass-app.herokuapp.com/)
 
 #### By
 + José Estevan
